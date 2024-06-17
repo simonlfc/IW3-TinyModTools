@@ -1,0 +1,2 @@
+"source_data\IW5_yeah.gdt" "material"
+"source_data\test.gdt" "xanim"
